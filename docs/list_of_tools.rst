@@ -120,6 +120,7 @@ Routing & Dimensioning
    :header-rows: 1
    :file: _static/4_networks-design.csv
    :align: center
+   :class: tight-table
 
 Thermo-hydraulic simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
